@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Funky Monkey", "description": "A funky monkey with sunglasses" },
+  { "id": 2, "name": "Disco Giraffe", "description": "A giraffe dancing to disco music" },
+  { "id": 3, "name": "Cool Cat", "description": "A cat with a cool attitude" }
+]
